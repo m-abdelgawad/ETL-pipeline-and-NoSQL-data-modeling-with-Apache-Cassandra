@@ -1,5 +1,7 @@
 # ETL Pipeline and NoSQL Data Modeling with Apache Cassandra
 
+<img src="images/Banner.png">
+
 > This project was a milestone in my journey to study the Data Engineer Nanodegree (provided by Udacity) which I am currently enrolled in.
 
 ## Introduction
